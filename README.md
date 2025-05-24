@@ -13,7 +13,7 @@ I am Venus Ruselle B. Daanoy, a passionate coder with expertise in database mana
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0873b0e9cd754bb790b0e9a1a64a84b2)
 <br>
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -68,7 +68,7 @@ I am Venus Ruselle B. Daanoy, a passionate coder with expertise in database mana
 </td></tr></table>  
 
 
-## Status
+### Status
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=RuselleDaanoy&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/></td>
@@ -77,7 +77,7 @@ I am Venus Ruselle B. Daanoy, a passionate coder with expertise in database mana
 </table>
 
 
-## Connect with Me
+### Connect with Me
 <div align="center">
 <a href="https://github.com/RuselleDaanoy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
