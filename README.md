@@ -69,7 +69,7 @@ I'm Rus, a passionate coder with expertise in database management. I love tackli
 ## Status
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=RuselleDaanoy&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=RuselleDaanoy&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></td>
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=RuselleDaanoy&theme=dark&hide_border=false"/></td>
   </tr>
 </table>
