@@ -2,9 +2,8 @@
 I'm Rus, a passionate coder with expertise in database management. I love tackling complex problems and crafting elegant solutions. With a background in Computer Science, I thrive in building scalable applications and optimizing workflows. Beyond coding, I’m deeply interested in UI/UX design and continuous learning, ensuring I stay ahead in the evolving tech landscape.
 
 ## Education
-- **BS Computer Science**
-  New Era University
-  2022-Present
+- **BS Computer Science** <br>
+  - New Era University (2022-Present)
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4A0CE7E985540327BC02CA505FE3B6AF4ACD90B581BC235B94610ABE5C71C096)
