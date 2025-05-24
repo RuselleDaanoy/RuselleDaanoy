@@ -15,7 +15,6 @@ I'm Rus, a passionate coder with expertise in database management. I love tackli
 ## Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>  
