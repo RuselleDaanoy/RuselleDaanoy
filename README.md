@@ -1,17 +1,12 @@
-# Hi there! 👋 I'm Venus Ruselle B. Daanoy
-
 ## About Me
-
 I am Venus Ruselle B. Daanoy, a passionate coder with expertise in database management. I love tackling complex problems and crafting elegant solutions. My journey in the tech world began when I enrolled in the BS Computer Science  program.
 
 ## Education
-
 - **BS Computer Science**
   New Era University
   2022-Present
 
 ## Certifications
-
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4A0CE7E985540327BC02CA505FE3B6AF4ACD90B581BC235B94610ABE5C71C096)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DBB73EE72CCB3CBC70C20A30CC6D0E4DCC1DF062C7234E22E2F9868476B3DE29)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=84EDCD008A36F578EDE88955B57C5E669648CD4733D75614D8A0EDD70DCC28EC&fbclid=IwAR27LFerkntTnvm6ucBRKCO1p_1xqPsHaI5j9i9LAwWGDAE1zMJYfuKbBHo)
@@ -20,7 +15,6 @@ I am Venus Ruselle B. Daanoy, a passionate coder with expertise in database mana
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -73,10 +67,7 @@ I am Venus Ruselle B. Daanoy, a passionate coder with expertise in database mana
 
 </td></tr></table>  
 
-<br/>  
-
 ## Connect with Me
-
 <div align="center">
 <a href="https://github.com/RuselleDaanoy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -93,3 +84,11 @@ I am Venus Ruselle B. Daanoy, a passionate coder with expertise in database mana
 </div>  
 
 - Email: ruselledaanoy@gmail.com
+
+## Status
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=RuselleDaanoy&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=RuselleDaanoy&theme=dark&hide_border=false"/></td>
+  </tr>
+</table>
