@@ -12,7 +12,7 @@ I'm Rus, a passionate coder with expertise in database management. I love tackli
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0873b0e9cd754bb790b0e9a1a64a84b2)
 <br>
 
-<h2 align="center">My Skill Set</h2>
+## Skill Set
 
 <h3 align="center">Frontend</h3>
 <div align="center">
