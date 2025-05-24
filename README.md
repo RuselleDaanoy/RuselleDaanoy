@@ -1,5 +1,3 @@
-(https://github.com/RuselleDaanoy/dumpassets/Untitled_Artwork_2.gif?raw=true)
-
 #### About Me
 I'm Rus, a passionate coder with expertise in database management. I love tackling complex problems and crafting elegant solutions. With a background in Computer Science, I thrive in building scalable applications and optimizing workflows. Beyond coding, I’m deeply interested in UI/UX design and continuous learning, ensuring I stay ahead in the evolving tech landscape.
 
