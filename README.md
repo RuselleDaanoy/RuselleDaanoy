@@ -18,11 +18,7 @@ I'm Rus, a passionate coder with expertise in database management. I love tackli
 
 ### Frontend  
 <div align="center">  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </div>
 
 </td><td valign="top" width="33%">
