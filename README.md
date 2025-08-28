@@ -5,13 +5,45 @@ I'm Rus, a passionate coder with expertise in database management. I love tackli
 - **BS Computer Science** <br>
   - New Era University (2022-Present)
 
-## Certifications
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4A0CE7E985540327BC02CA505FE3B6AF4ACD90B581BC235B94610ABE5C71C096)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DBB73EE72CCB3CBC70C20A30CC6D0E4DCC1DF062C7234E22E2F9868476B3DE29)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=84EDCD008A36F578EDE88955B57C5E669648CD4733D75614D8A0EDD70DCC28EC&fbclid=IwAR27LFerkntTnvm6ucBRKCO1p_1xqPsHaI5j9i9LAwWGDAE1zMJYfuKbBHo)
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0873b0e9cd754bb790b0e9a1a64a84b2)
-- [Essentials of Data Science](https://www.credly.com/badges/8cb54328-9a6e-423d-a07f-c71533166cf8/public_url)
-<br>
+<h2 align="center"> Certifications</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Certification</th>
+    <th>Provider</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</td>
+    <td>Oracle</td>
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4A0CE7E985540327BC02CA505FE3B6AF4ACD90B581BC235B94610ABE5C71C096">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>Oracle Cloud Data Management 2023 Certified Foundations Associate</td>
+    <td>Oracle</td>
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DBB73EE72CCB3CBC70C20A30CC6D0E4DCC1DF062C7234E22E2F9868476B3DE29">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>Oracle Cloud Infrastructure 2023 Certified Foundations Associate</td>
+    <td>Oracle</td>
+    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=84EDCD008A36F578EDE88955B57C5E669648CD4733D75614D8A0EDD70DCC28EC&fbclid=IwAR27LFerkntTnvm6ucBRKCO1p_1xqPsHaI5j9i9LAwWGDAE1zMJYfuKbBHo">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>SQL and Relational Databases 101</td>
+    <td>IBM (Cognitive Class)</td>
+    <td><a href="https://courses.cognitiveclass.ai/certificates/0873b0e9cd754bb790b0e9a1a64a84b2">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>Essentials of Data Science</td>
+    <td>Cisco</td>
+    <td><a href="https://www.credly.com/badges/8cb54328-9a6e-423d-a07f-c71533166cf8/public_url">View Certificate</a></td>
+  </tr>
+</table>
+
+</div>
+
 
 ## Skill Set
 
