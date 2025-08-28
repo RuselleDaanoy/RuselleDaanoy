@@ -10,6 +10,7 @@ I'm Rus, a passionate coder with expertise in database management. I love tackli
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DBB73EE72CCB3CBC70C20A30CC6D0E4DCC1DF062C7234E22E2F9868476B3DE29)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=84EDCD008A36F578EDE88955B57C5E669648CD4733D75614D8A0EDD70DCC28EC&fbclid=IwAR27LFerkntTnvm6ucBRKCO1p_1xqPsHaI5j9i9LAwWGDAE1zMJYfuKbBHo)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0873b0e9cd754bb790b0e9a1a64a84b2)
+- [Essentials of Data Science](https://www.credly.com/badges/8cb54328-9a6e-423d-a07f-c71533166cf8/public_url)
 <br>
 
 ## Skill Set
