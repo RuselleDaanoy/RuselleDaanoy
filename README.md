@@ -5,7 +5,7 @@ I'm Rus, a passionate coder with expertise in database management. I love tackli
 - **BS Computer Science** <br>
   - New Era University (2022-Present)
 
-<h2 align="center"> Certifications</h2>
+<h2> Certifications</h2>
 
 <div align="center">
 
