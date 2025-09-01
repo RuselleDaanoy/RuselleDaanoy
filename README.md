@@ -36,9 +36,14 @@ I'm Rus, a passionate coder with expertise in database management. I love tackli
     <td><a href="https://courses.cognitiveclass.ai/certificates/0873b0e9cd754bb790b0e9a1a64a84b2">View Certificate</a></td>
   </tr>
   <tr>
-    <td>Essentials of Data Science</td>
+    <td>Introduction to Data Science</td>
     <td>Cisco</td>
     <td><a href="https://www.credly.com/badges/8cb54328-9a6e-423d-a07f-c71533166cf8/public_url">View Certificate</a></td>
+  </tr>
+    <tr>
+    <td>Essentials of Data Analytics</td>
+    <td>Cisco</td>
+    <td><a href="https://www.credly.com/badges/20676545-0d5d-40e1-a7a2-4843c7b91dc7">View Certificate</a></td>
   </tr>
 </table>
 
