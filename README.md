@@ -1,5 +1,5 @@
 ## Introduction
-Computer Science student specializing in database management and full-stack development.
+Computer Science student specializing in design and full-stack development.
 
 ## Education
 - **BS Computer Science** <br>
