@@ -1,4 +1,3 @@
-## Introduction
 Computer Science student specializing in design and full-stack development.
 
 ## Education
