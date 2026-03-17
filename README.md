@@ -22,26 +22,7 @@ Computer Science student specializing in design and full-stack development.
 ## Technical Skills
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://iconic-api.onrender.com/dark/python" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/js" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/typescript" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/java" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/php" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/html" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/css" width="50px" />
-  </div>
-  <br/>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://iconic-api.onrender.com/dark/react" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/nextjs" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/nodejs" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/mysql" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/postgresql" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/tailwind" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/figma" width="50px" />
-    <img src="https://iconic-api.onrender.com/dark/git" width="50px" />
-  </div>
+  <img src="https://api.devicons.dev.br/icon?icons=Github%2CGit%2CTypeScript%2CTensorFlow%2CSupabase%2CJava%2CJavaScript%2CTailwindCSS%2CCSS%2CHTML%2CPython%2CNpm%2CNodeJS&size=48&theme=dark&perline=30" alt="Tech Stack" />
 </div>
 
 ## Status
