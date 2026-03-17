@@ -22,91 +22,26 @@ Computer Science student specializing in design and full-stack development.
 ## Technical Skills
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a><br/>React
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a><br/>Next.js
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a><br/>TypeScript
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a><br/>JavaScript
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a><br/>Node.js
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a><br/>Express.js
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a><br/>Python
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a><br/>Java
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a><br/>C#
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a><br/>PHP
-</td>
-</tr>
-<tr>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a><br/>MySQL
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a><br/>PostgreSQL
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a><br/>Tailwind
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a><br/>Bootstrap
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a><br/>CSS3
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a><br/>HTML5
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a><br/>AWS
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a><br/>GCP
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a><br/>Linux
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a><br/>Git
-</td>
-</tr>
-<tr>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a><br/>Bash
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a><br/>Figma
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a><br/>Illustrator
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a><br/>Photoshop
-</td>
-<td align="center" width="80" style="border: 1px solid #ddd; padding: 10px;">
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a><br/>Lightroom
-</td>
-</tr>
-</table>
-
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://iconic-api.onrender.com/dark/python" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/js" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/typescript" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/java" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/php" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/html" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/css" width="50px" />
+  </div>
+  <br/>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://iconic-api.onrender.com/dark/react" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/nextjs" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/nodejs" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/mysql" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/postgresql" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/tailwind" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/figma" width="50px" />
+    <img src="https://iconic-api.onrender.com/dark/git" width="50px" />
+  </div>
 </div>
 
 ## Status
