@@ -4,6 +4,28 @@ Computer Science student specializing in design and full-stack development.
 - **BS Computer Science** <br>
   - New Era University (2022-Present)
 
+## Technical Skills
+
+<div align="center">
+  <img src="https://api.devicons.dev.br/icon?icons=TypeScript,JavaScript,Java,PHP,Python,CSS,HTML,React,VueJS,TailwindCSS,NodeJS&size=55&theme=dark" />
+  <br />
+  <img src="https://api.devicons.dev.br/icon?icons=Laravel,ExpressJS,Bash,TensorFlow,Supabase,Npm,Postman,Illustrator,Photoshop,Figma&size=55&theme=dark" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://api.devicons.dev.br/icon?icons=Github,Git&size=55&theme=dark" />
+</div>
+
+## Badges
+
+<div align="center">
+  <img width="120" height="120" alt="badge introduction-to-iot" src="https://github.com/user-attachments/assets/b9e548c8-05bf-4a1c-aff9-2196e901f59d" />
+  <img width="120" height="120" alt="badge data-science-tools" src="https://github.com/user-attachments/assets/9344e1a7-8aa1-4c8c-b9db-a1b009d7619c" />
+  <img width="120" height="120" alt="badge introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/b9a106f4-23c5-4119-88b6-466e28e28ba0" />
+  <img width="120" height="120" alt="badge computer-hardware-basics" src="https://github.com/user-attachments/assets/e6224fc3-b33d-4050-ae2d-1f8171473c9b" />
+  <img width="120" height="120" alt="badge introduction-to-data-science" src="https://github.com/user-attachments/assets/7e57e7af-b5c2-4475-b3e3-7b1e3451f13c" />
+
+  <br /> <img width="150" height="210" alt="Badge Oracle Cloud Management" src="https://github.com/user-attachments/assets/4c51cbbb-8e5b-4075-8a21-c9dce93ba0c0" />
+  <img width="150" height="210" alt="Badge Cloud Infrastracture AI" src="https://github.com/user-attachments/assets/5b3da06c-8eca-4d02-8828-757f87e4e6e9" />
+</div>
+
 ## Professional Certifications
 
 <div align="center">
@@ -17,25 +39,6 @@ Computer Science student specializing in design and full-stack development.
 | Introduction to Data Science | Cisco | [View Certificate](https://www.credly.com/badges/8cb54328-9a6e-423d-a07f-c71533166cf8/public_url) |
 | Data Analytics Essentials | Cisco | [View Certificate](https://www.credly.com/badges/20676545-0d5d-40e1-a7a2-4843c7b91dc7) |
 
-</div>
-
-## Technical Skills
-
-<div align="center">
-  <img src="https://api.devicons.dev.br/icon?icons=TypeScript,JavaScript,Java,Python,CSS,HTML&size=48&theme=dark" alt="Core Languages" />
-  
-  <br /> <img src="https://api.devicons.dev.br/icon?icons=Github,Git,TensorFlow,Supabase,TailwindCSS,Npm,NodeJS&size=48&theme=dark" alt="Tools and Frameworks" />
-</div>
-
-## Badges
-
-<div align="center">
-  <img width="120" height="120" alt="Badge Hardware" src="https://github.com/user-attachments/assets/b5122458-419f-4d56-ae45-36a40d5a66ae" />
-  <img width="120" height="120" alt="Badge IOT" src="https://github.com/user-attachments/assets/b7138229-1474-49b0-95c4-99eebfafedfc" />
-  <img width="120" height="120" alt="Badge CyberSec" src="https://github.com/user-attachments/assets/454df598-24fa-4bfd-8504-88b13469d34c" />
-
-  <br /> <img width="120" height="180" alt="Badge Oracle Cloud Management" src="https://github.com/user-attachments/assets/4c51cbbb-8e5b-4075-8a21-c9dce93ba0c0" />
-  <img width="120" height="180" alt="Badge Cloud Infrastracture AI" src="https://github.com/user-attachments/assets/5b3da06c-8eca-4d02-8828-757f87e4e6e9" />
 </div>
   
 
