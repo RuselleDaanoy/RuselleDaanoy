@@ -1,8 +1,18 @@
-Computer Science student specializing in design and full-stack development.
+<div align="center">
+
+# Ruselle Daanoy
+### **Computer Science Student | Full-Stack Developer | UI/UX Designer**
+> *"You are far too smart to be the only thing standing in your way."*
+
+</div>
 
 ## Education
-- **BS Computer Science** <br>
-  - New Era University (2022-Present)
+
+**Bachelor of Science in Computer Science** <br>
+*New Era University* | 2022 — Present  
+
+  > **Specialization:** Software Engineering  
+  > **Relevant Coursework:** Data Analytics, Artificial Intelligence, Database Management, UI/UX Design, and Machine Learning.
 
 ## Technical Skills
 
