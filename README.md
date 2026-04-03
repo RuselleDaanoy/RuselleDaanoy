@@ -1,4 +1,6 @@
 <div align="center">
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruselledaanoy&label=views&color=008521&style=flat" alt="ruselledaanoy" /> </p>
 
 # Ruselle Daanoy
 ### **Computer Science Student | Full-Stack Developer | UI/UX Designer**
@@ -58,30 +60,14 @@
 </div>
   
 
-## Status
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=RuselleDaanoy&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=RuselleDaanoy&theme=dark&hide_border=false"/></td>
-  </tr>
-</table>
-
 ## Connect with Me
 <div align="center">
-<a href="https://github.com/RuselleDaanoy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/CS2_Daanoy, Venus Ruselle B." target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Ruselle01" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/dontmindrryy" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+    <a href="https://github.com/RuselleDaanoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ruselle01" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/CS2_Daanoy, Venus Ruselle B." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cs2_daanoy, venus ruselle b." height="30" width="40" /></a>
+  <a href="https://fb.com/Ruselle01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruselle01" height="30" width="40" /></a>
+  <a href="https://instagram.com/dontmindrry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dontmindrry" height="30"     width="40" /></a>
 </div>  
 
 <div align="center">
-Email: ruselledaanoy@gmail.com
+  
 </div>
