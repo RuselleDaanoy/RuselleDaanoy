@@ -49,25 +49,20 @@
 ## Badges
 
 <div align="center">
-  <img width="120" height="120" alt="badge introduction-to-iot" src="https://github.com/user-attachments/assets/b9e548c8-05bf-4a1c-aff9-2196e901f59d" />
-  <img width="120" height="120" alt="badge data-science-tools" src="https://github.com/user-attachments/assets/9344e1a7-8aa1-4c8c-b9db-a1b009d7619c" />
-  <img width="120" height="120" alt="badge introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/b9a106f4-23c5-4119-88b6-466e28e28ba0" />
-  <img width="120" height="120" alt="badge computer-hardware-basics" src="https://github.com/user-attachments/assets/e6224fc3-b33d-4050-ae2d-1f8171473c9b" />
-  <img width="120" height="120" alt="badge introduction-to-data-science" src="https://github.com/user-attachments/assets/7e57e7af-b5c2-4475-b3e3-7b1e3451f13c" />
-
-  <br /> <img width="150" height="210" alt="Badge Oracle Cloud Management" src="https://github.com/user-attachments/assets/4c51cbbb-8e5b-4075-8a21-c9dce93ba0c0" />
-  <img width="150" height="210" alt="Badge Cloud Infrastracture AI" src="https://github.com/user-attachments/assets/5b3da06c-8eca-4d02-8828-757f87e4e6e9" />
+  <img width="120" alt="badge iot" src="https://github.com/user-attachments/assets/b9e548c8-05bf-4a1c-aff9-2196e901f59d" />&nbsp;&nbsp;
+  <img width="120" alt="badge tools" src="https://github.com/user-attachments/assets/9344e1a7-8aa1-4c8c-b9db-a1b009d7619c" />&nbsp;&nbsp;
+  <img width="120" alt="badge cyber" src="https://github.com/user-attachments/assets/b9a106f4-23c5-4119-88b6-466e28e28ba0" />&nbsp;&nbsp;
+  <img width="120" alt="badge hardware" src="https://github.com/user-attachments/assets/e6224fc3-b33d-4050-ae2d-1f8171473c9b" />&nbsp;&nbsp;
+  <img width="120" alt="badge data-sci" src="https://github.com/user-attachments/assets/7e57e7af-b5c2-4475-b3e3-7b1e3451f13c" />&nbsp;&nbsp;
+</br>
+  <img width="150" alt="badge oracle-1" src="https://github.com/user-attachments/assets/4c51cbbb-8e5b-4075-8a21-c9dce93ba0c0" />&nbsp;&nbsp;
+  <img width="150" alt="badge oracle-2" src="https://github.com/user-attachments/assets/5b3da06c-8eca-4d02-8828-757f87e4e6e9" />
 </div>
   
 
 ## Connect with Me
-<div align="center">
-    <a href="https://github.com/RuselleDaanoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ruselle01" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/CS2_Daanoy, Venus Ruselle B." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cs2_daanoy, venus ruselle b." height="30" width="40" /></a>
-  <a href="https://fb.com/Ruselle01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruselle01" height="30" width="40" /></a>
-  <a href="https://instagram.com/dontmindrry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dontmindrry" height="30"     width="40" /></a>
-</div>  
 
 <div align="center">
-  
+<a href="https://www.linkedin.com/in/ruselle-daanoy-02a351366/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a><a href="https://fb.com/ruselle01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a><a href="https://instagram.com/dontmindrry" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </div>
+
